@@ -42,9 +42,6 @@ Give yourself a 5 day time limit and go wild with the design and colors; create 
   
 ## Backend projects
 
-### Project 1: 
-
-Give yourself a 5 day time limit and 
 
 
 ## Fullstack projects
