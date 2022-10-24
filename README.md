@@ -57,7 +57,7 @@ Give yourself a 5 day time limit and
   - Contact
   - Another site, where the owner can manage the bookings
   
-  ### Project 2: Art Marketplace
+### Project 2: Art Marketplace
   
   Build an Art Marketplace to train usefull skills, that will allow you to build a NFT Marketplace easier.
   
