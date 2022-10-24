@@ -35,7 +35,9 @@ Give yourself a 5 day time limit and go wild with the design and colors; create 
   - a search functionality (musician / band / song / album) 
   - media player controls
   - track information
-  - **Bonus points** a wave representation like in![sound wave 1](https://user-images.githubusercontent.com/84008066/197485701-07942dd4-fab2-43ab-867d-5f17967d6a12.jpg)![sound wave 2](https://user-images.githubusercontent.com/84008066/197485698-caa01546-8a67-4ed7-a631-87071c06cdbb.jpg)
+  - **Bonus points** a wave representation like in 
+    - ![sound wave 1](https://user-images.githubusercontent.com/84008066/197485701-07942dd4-fab2-43ab-867d-5f17967d6a12.jpg)
+    - ![sound wave 2](https://user-images.githubusercontent.com/84008066/197485698-caa01546-8a67-4ed7-a631-87071c06cdbb.jpg)
   
   
 ## Backend projects
