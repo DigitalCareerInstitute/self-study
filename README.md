@@ -269,6 +269,27 @@ This could be a way to collaborate with the OM department. Don't miss the chance
 **Tech Stack:**
 - use the tech stack you find more usefull for the project
 
+### Project 4: *Meal + groceries manager*
+
+**Goal:** build an application that assist the user with meal planning and groceries
+
+**Description:** the application must offer the user a variety of recipes according to the user preferences. Every X days the user will get a meals list to pick from and will order the groceries accordingly. This should help with accomplish diet goals, releaving the grocery buying stress as well as to people with reduced movility, or even to help managing catering services.
+
+**Must include:**
+provides a meals list for a period of time (a week), filtered from the user suggestions (“anything”, “vegetarian”, “vegan”, “glutenfree”,...). The user can edit this list by editing every recipe and discarding unwanted meals (and then getting a new suggestion. The unwanted recipe can be stored in a “unwanted meals list”)
+once the user agrees to a meal selection, the backend “translates” it into a grocery list
+then orders the grocery list. Some german supermarkets has API
+the user can input “what's in the pantry”, which the backend takes into consideration to form the next meals list
+You can use a recipe / meal planner API like 
+
+**Time:** 10 days
+**Tech Stack: **
+This is a full stack application mainly focused on the back-end side.
+For the front-end: use React, SCSS and a CSS framework
+For the back-end you'll need the techs learned during the 1-year-course (Mongo Db, Express, mongoose, …), as well as some API:
+for recipe suggestions: [suggestic](https://docs.suggestic.com/graphql/), [spoonocular](https://spoonacular.com/food-api) or [nutrixionix](https://www.nutritionix.com/)
+to order groceries: some german supermarkets like [Kaufland](https://www.kaufland.de/api/v1/) has an API. Maybe it's worth take a look into [Open Food Facts](https://de.openfoodfacts.org/data), [Zinc](https://zincapi.com/) or [Amazon](https://developer-docs.amazon.com/sp-api/). Web scraping could be an alternative. If you do it through a good SaaS provider you safe yourself work and potential trouble. [Smartproxy](https://smartproxy.com/scraping/ecommerce)
+
 ## Let's get cloning! 
 
 Clone a website is always a good learning experience, either for the front and for the back end. Opening the dev tools is a great way to see what the industry standards and the real world practices are. Don't hesitate and burn this F12!
