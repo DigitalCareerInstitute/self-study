@@ -269,7 +269,7 @@ This could be a way to collaborate with the OM department. Don't miss the chance
 **Tech Stack:**
 - use the tech stack you find more usefull for the project
 
-### Project 4: *Meal + groceries manager*
+### Project 4 : *Meal + groceries manager*
 
 **Goal:** build an application that assist the user with meal planning and groceries
 
