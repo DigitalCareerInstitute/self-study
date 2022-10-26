@@ -269,6 +269,14 @@ This could be a way to collaborate with the OM department. Don't miss the chance
 **Tech Stack:**
 - use the tech stack you find more usefull for the project
 
+## Let's get cloning! 
+
+Clone a website is always a good learning experience, either for the front and for the back end. Opening the dev tools is a great way to see what the industry standards and the real world practices are. Don't hesitate and burn this F12!
+
+When cloning an UI is important to be as closer to pixel perfect as possible (sometimes it's not exactly the same but close enough. For instance: [Deutsche Bahn](https://www.bahn.de/) has their own typeface.
+
+Some websites that you can find interesting to copy:
+
   
 ## Self-study prompts
 
