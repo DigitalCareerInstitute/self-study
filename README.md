@@ -84,8 +84,99 @@
  - use only HTML, CSS and JS (eventually a JS library like [phaser](https://phaser.io/), [melon](https://melonjs.org/) or [gdevelop](https://gdevelop.io/) for a more "gamy" UI
  - you can make your own questions and answers or use an API like the [trivia API](https://the-trivia-api.com/) 
 
+### Project 6 : *React Calendar*
+
+**Goal:** make your own react calendar package, that gives the developer the option to display date in multiple ways 
+**Description:** this project is mainly about making a package that works good in react, but it's about publishing a npm package as well.
+
+**Must include:**
+- a package that offers components to be used by the developer in a react app, which displays date
+- the components must offer a way to be stilised by the developer according to her/his tech stack
+
+**Time:** 7 days
+
+**Tech Stack:**
+- on top of react you'll need a JS bundler like [rollup](https://rollupjs.org/guide/en/), [webpack](https://webpack.js.org/) or [parcel](https://parceljs.org/), and of course learn [how to create and publish in npm](https://docs.npmjs.com/creating-and-publishing-scoped-public-packages)
+
+
+### Project 7 : *Chat bot*
+
+**Goal:** create a chat bot that addresses the most common questions and complains from the customers of a given business. 
+
+**Description:** since some companies are relative big and complex, every day more business introduce a chat bot on the website to answer the most common questions, or to connect the customer with the needed professional.
+
+**Must include:**
+  - implement a field where the customer can input a question / complain.
+  - interpret the customer's input (=> translate the customer's input to the options we have and implement a default option in case of no available answer)
+  - write an answer tree, giving  one or multiple options for the customer for a giving sentence
+  - you'll need a simple UI for the interaction with the user. Keep it simple and clean.
+ 
+ * bonus points:* animate an image (robot, cartoon, …) so it looks like it saying the answer. For that you can use vanilla JS animations or use a library [phaser](https://phaser.io/), [melon](https://melonjs.org/) or [gdevelop](https://gdevelop.io/), depending on the animation's complexity
+
+**Time:** 7 days
+**Tech Stack:**
+  - use HTML, CSS and JS only
+  - for the chatbot function you can use vanilla JS or a framework like [botui](https://docs.botui.org/) or [intelligo](https://intelligo.js.org/)
+
+
 
 ## Backend projects
+
+### Project 1: *Build a CMS*
+
+
+**Goal:** Build a Content Management System (CMS) for a little NGO (3-15)
+
+**Description:** the core this project is to create the connection between an admin UI and the NGO website. Therefore an Admin-UI is needed, but not the focus.
+
+**Must include:**
+  - a simple and clean UI for the administrator
+  - a connection to the DB of your choice, where you can edit (create, edit, delete):
+    -   the blog
+    -   the "we are" (meaning: manage associated profile's)
+    -   read and answer blog comments
+ 
+**Time:** 7 days
+
+**Tech Stack:** - Use the tech stack you think is better for the job (CSS and JS frameworks included)
+
+
+### Project 2: *Messaging app*
+
+**Goal:** Build your own messaging app!
+
+**Must include:**
+- An UI will be needed, but it should be kept  simple, since it's not the core aspect this project
+- The app should send, store and deliver messages between users. Which kind of messages (only txt, emojis, voice, files, videocall...) is up to you.
+- Users should be logged in in order to use the app.
+- 
+**Time:** 7 days
+
+**Tech Stack:**
+ on top of the front- and back-end you'll probably need some tech like socket.ir, Memcached, RabbitMQ or Reddis
+ 
+
+### Project 3: *Music Life Api*
+
+**Goal:** write an API that manages musicians, bands, venus(concert locations), and concerts
+
+**Description:** the point of that API is create a dense related database, where every group is related to the others (a musician could play in many bands, has multiple concerts in different venues and so on). 
+
+**Must include:**
+
+**Time:**
+
+**Tech Stack:**
+- use JS and Node.js.
+- you can use this project to learn more about relations in a no-SQL Db or to learn a SQL Db.
+- make a little testing db. You can use a fake data generator like [mockaroo](https://www.mockaroo.com/).   
+
+
+
+
+
+
+
 
 
 
