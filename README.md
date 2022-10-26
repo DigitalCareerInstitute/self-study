@@ -223,11 +223,52 @@
 
 ### Project 3 : *Community Manager Assistant*
 
-**Goal:**
-**Description:**
+**Goal:** is to manage post on a social media app by uploading and scheduling content as well as interacting with the community
+
+**Description:** there's already some platforms that offers this service, like [hootsuite](https://www.hootsuite.com/en-gb) and [buffer](https://buffer.com/) or [youtube studio](https://studio.youtube.com) *this link is different for every user and will lead to your youtube's account youtube studio* . Take inspiration from then and make your own version of it!
+This could be a way to collaborate with the OM department. Don't miss the chance to talk to them. I'm sure there's many people who would love some missing feature in the mentioned apps!
+
 **Must include:**
-**Time:**
+- connection with at least one social media platform (twitter, instagram, facebook, pinterest...). Look their respective API.
+- the option to upload and schedule content to this platforms (display a calendar, post preview, in case of instagram feed preview, ...)
+- read and write comments
+- make UI clean, simple. Be aware of color selection, then you probably want to be differenciated from an specific brand.
+
+**Time:** 10 days
+
+**Tech Stack:** use the tech stack you find more suitable for the project
+
+### Project 3 : *Project assistant*
+
+**Goal:** is to have an app that helps with project management. 
+
+**Description:** there's plenty of project management apps out there. Most of them are mainly focused on team work. Interesting extra-features could be offering automate certain processes (ie automating reactions => "when become input A do B"), scheduling certain apps processes, or become regular previously programmed notifications.
+
+**Must include:**
+- open a new document (project) with different sections (goals, timing, processes, ...)
+- "to do list" (a project manager is a more complete and complexe to do list)
+- back-end to store every document
+- an UI to manage this content
+
+**Time:** 10 days
+
 **Tech Stack:**
+- use the tech stack you find more useful for the project
+
+### Project 3 : *New social media*
+
+**Goal:** create a new social media for a very concrete niche.
+**Must include:**
+- user profile (sign up and login)
+- post (which kind of content is up to you and it depends on which kind of social media you are making)
+- feed
+- follow user
+- messaging user
+
+**Time:** 10 days
+**Tech Stack:**
+- use the tech stack you find more usefull for the project
+
   
 ## Self-study prompts
 
